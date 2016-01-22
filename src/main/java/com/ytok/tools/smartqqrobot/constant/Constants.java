@@ -1,4 +1,4 @@
-package com.ytok.tools.smartqqrobot.utils;
+package com.ytok.tools.smartqqrobot.constant;
 
 /**
  * Created by yangtao on 16/1/22.
